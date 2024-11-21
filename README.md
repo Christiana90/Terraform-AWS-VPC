@@ -19,9 +19,8 @@ This README will guide you through setting up the environment, prerequisites, an
 
 Before we dive into the setup, let's visualize the architecture that this Terraform configuration provisions. Below is the architecture diagram for the infrastructure.
 
-![Architecture Diagram](.\image.png)
+![Architecture Diagram](./image.png)
 
-*Note: Replace `path/to/your/architecture-diagram.png` with the actual path to your image.*
 
 ---
 
