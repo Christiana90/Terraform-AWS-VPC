@@ -1,7 +1,3 @@
-Here's the updated README, which now includes a placeholder section where you can include an architectural diagram or image to help visualize the setup.
-
----
-
 # Terraform Infrastructure with EC2 Instances, VPC, NAT Gateway, and Security Groups
 
 This Terraform project provisions cloud infrastructure on AWS, including:
